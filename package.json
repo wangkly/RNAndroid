@@ -1,0 +1,16 @@
+{
+  "name": "rnandroid",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "yarn react-native start"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "react": "16.8.6",
+    "react-native": "^0.60.5"
+  }
+}
